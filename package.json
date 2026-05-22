@@ -9,6 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
+    "update-data": "node scripts/update-data.mjs",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
