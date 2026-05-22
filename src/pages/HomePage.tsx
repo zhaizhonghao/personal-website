@@ -2,15 +2,18 @@ import { Link } from 'react-router-dom';
 import { BookOpen, FolderGit2, Users, Mail, ExternalLink } from 'lucide-react';
 import Section from '../components/Section';
 import profile from '../data/profile';
+import avatarImg from '../assets/avatar.jpg';
 
 export default function HomePage() {
   return (
     <div className="max-w-5xl mx-auto px-4">
       {/* Hero Section */}
       <section className="py-16 md:py-24 text-center">
-        <div className="w-24 h-24 mx-auto mb-6 rounded-full bg-primary/10 flex items-center justify-center text-primary text-2xl font-bold">
-          {profile.name.split(' ').map(n => n[0]).join('')}
-        </div>
+        <img
+          src={avatarImg}
+          alt={profile.name}
+          className="w-28 h-28 mx-auto mb-6 rounded-full object-cover ring-4 ring-primary/10 shadow-lg"
+        />
         <h1 className="text-4xl md:text-5xl font-bold text-primary mb-3">
           {profile.name}
         </h1>
