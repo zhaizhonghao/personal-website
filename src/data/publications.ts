@@ -27,7 +27,7 @@ const publications: Publication[] = [
     type: 'journal',
     doi: '10.3390/fi17080338',
     link: 'https://doi.org/10.3390/fi17080338',
-    citations: 8,
+    citations: 9,
   },
   {
     title: 'A Novel Image Encryption Scheme Using 3D Chaotic Maps with Josephus Permutation and Dynamic Diffusion',
@@ -88,7 +88,7 @@ const publications: Publication[] = [
     type: 'journal',
     doi: '10.1016/j.jisa.2022.103226',
     link: 'https://doi.org/10.1016/j.jisa.2022.103226',
-    citations: 10,
+    citations: 11,
   },
   {
     title: 'Towards Decentralized Trust Management Using Blockchain in Crowdsourcing Networks',
