@@ -27,7 +27,7 @@ const publications: Publication[] = [
     type: 'journal',
     doi: '10.3390/fi17080338',
     link: 'https://doi.org/10.3390/fi17080338',
-    citations: 9,
+    citations: 10,
   },
   {
     title: 'A Novel Image Encryption Scheme Using 3D Chaotic Maps with Josephus Permutation and Dynamic Diffusion',
@@ -68,7 +68,7 @@ const publications: Publication[] = [
     type: 'journal',
     doi: '10.1016/j.engappai.2023.107606',
     link: 'https://doi.org/10.1016/j.engappai.2023.107606',
-    citations: 9,
+    citations: 10,
   },
   {
     title: 'A Toolbox for Migrating the Blockchain-based Application from Ethereum to Hyperledger Fabric',
