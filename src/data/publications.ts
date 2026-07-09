@@ -18,6 +18,7 @@ const publications: Publication[] = [
     type: 'journal',
     doi: '10.1109/tdsc.2026.3667898',
     link: 'https://doi.org/10.1109/TDSC.2026.3667898',
+    citations: 1,
   },
   {
     title: 'A Lightweight Authentication Method for Industrial Internet of Things Based on Blockchain and Chebyshev Chaotic Maps',
