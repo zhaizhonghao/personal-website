@@ -18,7 +18,7 @@ const publications: Publication[] = [
     type: 'journal',
     doi: '10.1109/tdsc.2026.3667898',
     link: 'https://doi.org/10.1109/TDSC.2026.3667898',
-    citations: 1,
+    citations: 2,
   },
   {
     title: 'A Lightweight Authentication Method for Industrial Internet of Things Based on Blockchain and Chebyshev Chaotic Maps',
@@ -89,7 +89,7 @@ const publications: Publication[] = [
     type: 'journal',
     doi: '10.1016/j.jisa.2022.103226',
     link: 'https://doi.org/10.1016/j.jisa.2022.103226',
-    citations: 11,
+    citations: 12,
   },
   {
     title: 'Towards Decentralized Trust Management Using Blockchain in Crowdsourcing Networks',
