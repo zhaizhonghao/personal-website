@@ -18,7 +18,7 @@ const publications: Publication[] = [
     type: 'journal',
     doi: '10.1109/tdsc.2026.3667898',
     link: 'https://doi.org/10.1109/TDSC.2026.3667898',
-    citations: 2,
+    citations: 3,
   },
   {
     title: 'A Lightweight Authentication Method for Industrial Internet of Things Based on Blockchain and Chebyshev Chaotic Maps',
@@ -69,7 +69,7 @@ const publications: Publication[] = [
     type: 'journal',
     doi: '10.1016/j.engappai.2023.107606',
     link: 'https://doi.org/10.1016/j.engappai.2023.107606',
-    citations: 10,
+    citations: 11,
   },
   {
     title: 'A Toolbox for Migrating the Blockchain-based Application from Ethereum to Hyperledger Fabric',
