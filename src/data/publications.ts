@@ -89,7 +89,7 @@ const publications: Publication[] = [
     type: 'journal',
     doi: '10.1016/j.jisa.2022.103226',
     link: 'https://doi.org/10.1016/j.jisa.2022.103226',
-    citations: 12,
+    citations: 13,
   },
   {
     title: 'Towards Decentralized Trust Management Using Blockchain in Crowdsourcing Networks',
