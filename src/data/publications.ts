@@ -69,7 +69,7 @@ const publications: Publication[] = [
     type: 'journal',
     doi: '10.1016/j.engappai.2023.107606',
     link: 'https://doi.org/10.1016/j.engappai.2023.107606',
-    citations: 11,
+    citations: 12,
   },
   {
     title: 'A Toolbox for Migrating the Blockchain-based Application from Ethereum to Hyperledger Fabric',
